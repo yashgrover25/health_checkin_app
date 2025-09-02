@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784440896889",
+    "project_id": "health-check-in-app",
+    "storage_bucket": "health-check-in-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784440896889:android:51ce4b137e2829e67413a8",
+        "android_client_info": {
+          "package_name": "com.example.health_checkin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfkbaIAIYUmmV9tKkvwS9mxQbVxRO_1Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
